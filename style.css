@@ -1,0 +1,30 @@
+body {
+  background-image: url('bg.jpg');
+  background-color: rgb(109,202, 205);
+  background-repeat: no-repeat;
+  background-size: 60%;
+  margin-right: 2em;
+  padding-left: 40em;
+  font-family: Arial;
+  text-align: right;
+  color: white;
+  font-size: 1.5vw;
+
+}
+
+input, button {
+  font-size: 2vw;
+  background-color: rgb(109,202,205);
+  border: 2px solid white;
+  color: white;
+}
+
+button {
+  cursor: pointer;
+}
+
+#title {
+  display: block;
+  text-align: right;
+  font-size: 3vw;
+}
